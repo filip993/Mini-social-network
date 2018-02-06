@@ -1,0 +1,1 @@
+I have created database using sqlizer.io which converts json or other file to sql data. I have put in this file database in notepad format and json format.
